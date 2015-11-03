@@ -1,6 +1,7 @@
 require 'rspec'
 require 'calculator'
 
+
 describe Calculator do
 
 	describe 'addition' do
